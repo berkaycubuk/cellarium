@@ -1,0 +1,12 @@
+# Binary
+cellarium
+cellarium.wasm
+
+# Save files
+cellarium_save_*.json
+
+# WASM support (copied from Go installation)
+wasm_exec.js
+
+# OS files
+.DS_Store
